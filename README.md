@@ -22,6 +22,7 @@ We combine the ratings from Popularity model, Conten based filtering and Collabo
 ### Training and Testing
 
 ## Try it out
-final.py can directly be run to start the recommendation engine. We have made a console for the same. Book recommendations can be obtained for an existing user or a new user. New user to asked to provide ratings for any 5 books from the list of books that has been generated using popularity ratings, genre wise. Based on these ratings, books are recommendaed to the user. 
+final.py can directly be run to start the recommendation engine. We have made a console for the same. Book recommendations can be obtained for an existing user or a new user. New user to asked to provide ratings for any 5 books from the list of books that has been generated using popularity ratings, genre wise. Based on these ratings, books are recommended to the user. 
 
-
+## Future Extension
+Given more time, we would have used Stochastic Gradient Descent to learn the weights given to each of Popularity rating, Content based rating and collaborative rating. 
