@@ -1,0 +1,1000 @@
+book_id,authors,title,Genres
+1,Suzanne Collins,"The Hunger Games (The Hunger Games, #1)",SciFi;Drama
+2,"J.K. Rowling, Mary GrandPré","Harry Potter and the Sorcerer's Stone (Harry Potter, #1)",Fantasy;Young-Age
+3,Stephenie Meyer,"Twilight (Twilight, #1)",Fantasy
+4,Harper Lee,To Kill a Mockingbird,Self-Help;Drama
+5,F. Scott Fitzgerald,The Great Gatsby,Drama
+6,John Green,The Fault in Our Stars,Romance;Drama
+7,J.R.R. Tolkien,The Hobbit,Fantasy
+8,J.D. Salinger,The Catcher in the Rye,Classic;Young-Age
+9,Dan Brown,"Angels & Demons  (Robert Langdon, #1)",Thriller;Drama
+10,Jane Austen,Pride and Prejudice,Drama;Romance
+11,Khaled Hosseini,The Kite Runner,Drama;History
+12,Veronica Roth,"Divergent (Divergent, #1)",Fantasy;Drama
+13,"George Orwell, Erich Fromm, Celâl Üster",1984,Thriller
+14,George Orwell,Animal Farm,Drama
+15,"Anne Frank, Eleanor Roosevelt, B.M. Mooyaart-Doubleday",The Diary of a Young Girl,Biography
+16,"Stieg Larsson, Reg Keeland","The Girl with the Dragon Tattoo (Millennium, #1)",Crime;Thriller;Drama
+17,Suzanne Collins,"Catching Fire (The Hunger Games, #2)",SciFi;Drama
+18,"J.K. Rowling, Mary GrandPré, Rufus Beck","Harry Potter and the Prisoner of Azkaban (Harry Potter, #3)",Fantasy;Fiction;Young-Age
+19,J.R.R. Tolkien,"The Fellowship of the Ring (The Lord of the Rings, #1)",Fantasy
+20,Suzanne Collins,"Mockingjay (The Hunger Games, #3)",Fantasy
+21,"J.K. Rowling, Mary GrandPré","Harry Potter and the Order of the Phoenix (Harry Potter, #5)",Fantasy
+22,Alice Sebold,The Lovely Bones,Psychological;Domestic
+23,"J.K. Rowling, Mary GrandPré","Harry Potter and the Chamber of Secrets (Harry Potter, #2)",Fantasy;Young-Age
+24,"J.K. Rowling, Mary GrandPré","Harry Potter and the Goblet of Fire (Harry Potter, #4)",Fantasy;Young-Age
+25,"J.K. Rowling, Mary GrandPré","Harry Potter and the Deathly Hallows (Harry Potter, #7)",Fantasy;Young-Age
+26,Dan Brown,"The Da Vinci Code (Robert Langdon, #2)",Thriller;Drama
+27,"J.K. Rowling, Mary GrandPré","Harry Potter and the Half-Blood Prince (Harry Potter, #6)",Fantasy;Young-Age
+28,William Golding,Lord of the Flies,Psychological;Young-Age
+29,"William Shakespeare, Robert           Jackson",Romeo and Juliet,Romance
+30,Gillian Flynn,Gone Girl,Thriller
+31,Kathryn Stockett,The Help,History;Fiction
+32,John Steinbeck,Of Mice and Men,Drama;Fiction
+33,Arthur Golden,Memoirs of a Geisha,Biography
+34,E.L. James,"Fifty Shades of Grey (Fifty Shades, #1)",Erotic;Drama
+35,"Paulo Coelho, Alan R. Clarke",The Alchemist,Fiction;Fantasy
+36,Lois Lowry,"The Giver (The Giver, #1)",Fantasy
+37,C.S. Lewis,"The Lion, the Witch, and the Wardrobe (Chronicles of Narnia, #1)",Fantasy
+38,Audrey Niffenegger,The Time Traveler's Wife,Romance;SciFi;Fantasy;Domestic
+39,George R.R. Martin,"A Game of Thrones (A Song of Ice and Fire, #1)",Fantasy
+40,Elizabeth Gilbert,"Eat, Pray, Love",Romance;Drama
+41,Rick Riordan,"The Lightning Thief (Percy Jackson and the Olympians, #1)",Fantasy;Thriller
+42,Louisa May Alcott,"Little Women (Little Women, #1)",Young-Age;Romance;Drama
+43,"Charlotte Brontë, Michael Mason",Jane Eyre,Young-Age;Biography
+44,Nicholas Sparks,"The Notebook (The Notebook, #1)",Romance;Drama
+45,Yann Martel,Life of Pi,Fantasy;Drama
+46,Sara Gruen,Water for Elephants,Romance;Fiction;History
+47,Markus Zusak,The Book Thief,Young-Age;History;Fiction
+48,Ray Bradbury,Fahrenheit 451,Fantasy;Fiction
+49,Stephenie Meyer,"New Moon (Twilight, #2)",Fantasy
+50,Shel Silverstein,Where the Sidewalk Ends,Poetry;Kids
+51,Cassandra Clare,"City of Bones (The Mortal Instruments, #1)",Fantasy;Kids;Horror
+52,Stephenie Meyer,"Eclipse (Twilight, #3)",Fantasy
+53,Christopher Paolini,"Eragon (The Inheritance Cycle, #1)",Fantasy
+54,Douglas Adams,"The Hitchhiker's Guide to the Galaxy (Hitchhiker's Guide to the Galaxy, #1)",Fantasy;Fiction
+55,Aldous Huxley,Brave New World,Fantasy;Fiction
+56,Stephenie Meyer,"Breaking Dawn (Twilight, #4)",Fantasy
+57,Sue Monk Kidd,The Secret Life of Bees,Young-Age;History;Drama
+58,"Mark Twain, John Seelye, Guy Cardwell",The Adventures of Huckleberry Finn,History;Young-Age
+59,"E.B. White, Garth Williams, Rosemary Wells",Charlotte's Web,Kids;Fiction
+60,Mark Haddon,The Curious Incident of the Dog in the Night-Time,Young-Age;Fiction
+61,Paula Hawkins,The Girl on the Train,Thriller;Psychological
+62,Philip Pullman,"The Golden Compass (His Dark Materials, #1)",Fantasy
+63,"Emily Brontë, Richard J. Dunn",Wuthering Heights,Romance;Drama;Fiction
+64,Jodi Picoult,My Sister's Keeper,Drama;Domestic
+65,Kurt Vonnegut Jr.,Slaughterhouse-Five,Fiction
+66,Margaret Mitchell,Gone with the Wind,Romance;History
+67,Khaled Hosseini,A Thousand Splendid Suns,Drama;History
+68,Stephen Chbosky,The Perks of Being a Wallflower,Fiction;Young-Age
+69,Veronica Roth,"Insurgent (Divergent, #2)",Fantasy;Drama
+70,Orson Scott Card,"Ender's Game (Ender's Saga, #1)",SciFi
+71,"Mary Wollstonecraft Shelley, Percy Bysshe Shelley, Maurice Hindle",Frankenstein,Horror;Fiction;SciFi
+72,Stephen King,The Shining (The Shining #1),Horror;Classic;Thriller
+73,Stephenie Meyer,"The Host (The Host, #1)",Romance;Thriller
+74,John Green,Looking for Alaska,Kids;Thriller
+75,Helen Fielding,"Bridget Jones's Diary (Bridget Jones, #1)",Comedy;Romance;Drama
+76,"Jane Austen, Tony Tanner, Ros Ballaster",Sense and Sensibility,Romance
+77,"Louis Sachar, Louis Sachar","Holes (Holes, #1)",Comedy;Drama
+78,Lauren Weisberger,"The Devil Wears Prada (The Devil Wears Prada, #1)",Drama;Romance
+79,"Homer, Robert Fagles, E.V. Rieu, Frédéric Mugler, Bernard Knox",The Odyssey,Poetry
+80,"Antoine de Saint-Exupéry, Richard Howard, Dom Marcos Barbosa, Melina Karakosta",The Little Prince,Classic;Young-Age;Psychological
+81,Jeannette Walls,The Glass Castle,Biography
+82,Jon Krakauer,Into the Wild,Biography
+83,"Charles Dickens, Richard Maxwell, Hablot Knight Browne",A Tale of Two Cities,History;Fiction;Drama
+84,Michael Crichton,"Jurassic Park (Jurassic Park, #1)",SciFi;Thriller;Fantasy
+85,Shel Silverstein,The Giving Tree,Kids
+86,John Grisham,A Time to Kill,Thriller
+87,"Elie Wiesel, Marion Wiesel",Night (The Night Trilogy #1),Biography
+88,John Green,Paper Towns,Kids;Drama
+89,William Goldman,The Princess Bride,Romance;Drama
+90,S.E. Hinton,The Outsiders,Young-Age;Fiction
+91,James Dashner,"The Maze Runner (Maze Runner, #1)",Young-Age;SciFi
+92,"Steven D. Levitt, Stephen J. Dubner","Freakonomics: A Rogue Economist Explores the Hidden Side of Everything (Freakonomics, #1)",Self-Help;Academic
+93,Frances Hodgson Burnett,The Secret Garden,Kids
+94,"Gabriel García Márquez, Gregory Rabassa",One Hundred Years of Solitude,Fantasy
+95,"Oscar Wilde, Jeffrey Eugenides",The Picture of Dorian Gray,Fiction
+96,E.L. James,"Fifty Shades Freed (Fifty Shades, #3)",Erotic;Drama
+97,"Bram Stoker, Nina Auerbach, David J. Skal",Dracula,Horror;Fantasy
+98,"Stieg Larsson, Reg Keeland","The Girl Who Played with Fire (Millennium, #2)",Thriller;Drama
+99,E.L. James,"Fifty Shades Darker (Fifty Shades, #2)",Erotic;Drama
+100,Barbara Kingsolver,The Poisonwood Bible,History;Fiction
+101,David Sedaris,Me Talk Pretty One Day,Biography
+102,Maurice Sendak,Where the Wild Things Are,Kids;Fantasy
+103,"Alexandre Dumas, Robin Buss",The Count of Monte Cristo,History;Fiction
+104,Cormac McCarthy,The Road,Fantasy;Fiction
+105,Veronica Roth,"Allegiant (Divergent, #3)",Fantasy;Drama
+106,Tina Fey,Bossypants,Biography
+107,Nicholas Sparks,A Walk to Remember,Romance;Drama
+108,Sophie Kinsella,"Confessions of a Shopaholic (Shopaholic, #1)",Romance;Drama
+109,"Victor Hugo, Lee Fahnestock, Norman MacAfee",Les Misérables,Drama;History;Classic
+110,George R.R. Martin,"A Clash of Kings  (A Song of Ice and Fire, #2)",Fantasy
+111,Kim Edwards,"A Clash of Kings  (A Song of Ice and Fire, #2)",Fantasy
+112,Jojo Moyes,"Me Before You (Me Before You, #1)",Romance;Drama
+113,Joseph Heller,Catch-22,Comedy;Fiction
+114,"Mitch Albom, Saulius Dagys",Tuesdays with Morrie,Biography;Fiction
+115,Jeffrey Eugenides,Middlesex,Drama
+116,"Mark Twain, Guy Cardwell, John Seelye",The Adventures of Tom Sawyer,Kids;Fiction
+117,Madeleine L'Engle,"A Wrinkle in Time (A Wrinkle in Time Quintet, #1)",Classic;SciFi;Young-Age;Kids
+118,Amy Tan,The Joy Luck Club,Classic;Fiction
+119,Margaret Atwood,The Handmaid's Tale,Drama;Fiction
+120,Ann Brashares,"The Sisterhood of the Traveling Pants (Sisterhood, #1)",Kids;Fiction
+121,"Vladimir Nabokov, Craig Raine",Lolita,Biography;Romance;Comedy
+122,"Gregory Maguire, Douglas Smith","Wicked: The Life and Times of the Wicked Witch of the West (The Wicked Years, #1)",Fantasy;SciFi
+123,John Grisham,"The Firm (Penguin Readers, Level 5)",Drama
+124,Emma Donoghue,Room,Thriller;Drama
+125,"William Shakespeare, Richard Andrews, Rex Gibson",Hamlet,Drama;Comedy
+126,Frank Herbert,Dune (Dune Chronicles #1),SciFi;Fantasy;Classic
+127,Malcolm Gladwell,The Tipping Point: How Little Things Can Make a Big Difference,Self-Help
+128,Walter Isaacson,Steve Jobs,Biography
+129,Ken Kesey,One Flew Over the Cuckoo's Nest,Drama;Psychological
+130,Ernest Hemingway,The Old Man and the Sea,Classic;Fiction
+131,John Steinbeck,The Grapes of Wrath,Drama;Fiction
+132,Mitch Albom,The Five People You Meet in Heaven,Self-Help;Fiction
+133,L.M. Montgomery,"Anne of Green Gables (Anne of Green Gables, #1)",Kids;Classic
+134,Cassandra Clare,"City of Glass (The Mortal Instruments, #3)",Kids;Fantasy;Fiction;
+135,George R.R. Martin,"A Storm of Swords (A Song of Ice and Fire, #3)",Fantasy
+136,Rebecca Wells,Divine Secrets of the Ya-Ya Sisterhood,Comedy;Drama
+137,Diana Gabaldon,"Outlander (Outlander, #1)",Romance;History;Fiction
+138,"Nathaniel Hawthorne, Thomas E. Connolly, Nina Baym",The Scarlet Letter,Romance;History;Fiction
+139,Ransom Riggs,"Miss Peregrine’s Home for Peculiar Children (Miss Peregrine’s Peculiar Children, #1)",Fantasy;Drama
+140,"Stieg Larsson, Reg Keeland","The Girl Who Kicked the Hornet's Nest (Millennium, #3)",Fiction;Drama
+141,Andy Weir,The Martian,Fiction;Thriller
+142,Ken Follett,"The Pillars of the Earth (The Kingsbridge Series, #1)",Fiction
+143,Anthony Doerr,All the Light We Cannot See,History
+144,Laura Hillenbrand,"Unbroken: A World War II Story of Survival, Resilience, and Redemption",History
+145,Dan Brown,Deception Point,Thriller;Drama
+146,Donna Tartt,The Goldfinch,Thriller;Fiction
+147,Jay Asher,Thirteen Reasons Why,Drama
+148,Tracy Chevalier,Girl with a Pearl Earring,Romance;Drama
+149,Gayle Forman,"If I Stay (If I Stay, #1)",Romance;Drama
+150,Anita Diamant,The Red Tent,History;Fiction
+151,Rick Riordan,"The Sea of Monsters (Percy Jackson and the Olympians, #2)",Fantasy;Kids
+152,Nicholas Sparks,Dear John,Romance;Drama
+153,Cassandra Clare,"City of Ashes (The Mortal Instruments, #2)",Fantasy;Fiction
+154,William Shakespeare,Macbeth,Classic;Drama
+155,J.R.R. Tolkien,"The Two Towers (The Lord of the Rings, #2)",Fantasy;Thriller
+156,Emily Giffin,"Something Borrowed (Darcy & Rachel, #1)",Romance;Drama
+157,"Dr. Seuss, לאה נאור",Green Eggs and Ham,Kids
+158,"Roald Dahl, Quentin Blake","Charlie and the Chocolate Factory (Charlie Bucket, #1)",Kids;Classic
+159,Rick Riordan,"The Battle of the Labyrinth (Percy Jackson and the Olympians, #4)",Fantasy;Kids;Thriller
+160,Charles Dickens,Great Expectations,Classic;Fiction
+161,J.R.R. Tolkien,"The Return of the King (The Lord of the Rings, #3)",Fantasy;Thriller
+162,"Albert Camus, Matthew    Ward",The Stranger,Fiction
+163,Rick Riordan,"The Lost Hero (The Heroes of Olympus, #1)",Fantasy;Fiction
+164,Rainbow Rowell,Eleanor & Park,Romance;Drama
+165,George R.R. Martin,"A Feast for Crows (A Song of Ice and Fire, #4)",Fantasy;Thriller
+166,Ally Condie,"Matched (Matched, #1)",Romance;Fantasy
+167,Neil Gaiman,"American Gods (American Gods, #1)",Fantasy;Drama
+168,"Stephen King, Bernie Wrightson",The Stand,Fantasy;Fiction
+169,Nicholas Sparks,The Last Song,Romance;Drama
+170,Dan Brown,Digital Fortress,Thriller;Drama
+171,"Jane Austen, Fiona Stafford",Emma,Classic;Comedy;Romance;Drama
+172,"Leo Tolstoy, Louise Maude, Leo Tolstoj, Aylmer Maude",Anna Karenina,Fiction
+173,Anthony Burgess,A Clockwork Orange,Drama;Thriller
+174,William Paul Young,The Shack,Drama;Fiction
+175,Rick Riordan,"The Last Olympian (Percy Jackson and the Olympians, #5)",Fantasy;Thriller;Kids
+176,Stephen King,It,Horror;Thriller
+177,"Fyodor Dostoyevsky, David McDuff",Crime and Punishment,Drama;Fiction
+178,Sylvia Plath,The Bell Jar,Classic;Romance
+179,Frank McCourt,"Angela's Ashes (Frank McCourt, #1)",Biography
+180,"Hermann Hesse, Hilda Rosner",Siddhartha,History;Self-Help
+181,Truman Capote,In Cold Blood,Fiction;Thriller
+182,"Kami Garcia, Margaret Stohl","Beautiful Creatures (Caster Chronicles, #1)",Romance;Fantasy
+183,Cassandra Clare,"Clockwork Angel (The Infernal Devices, #1)",Fantasy;Fiction
+184,"Roald Dahl, Quentin Blake",Matilda,Kids;Fantasy
+185,Erin Morgenstern,The Night Circus,Fantasy
+186,Philippa Gregory,"The Other Boleyn Girl (The Plantagenet and Tudor Novels, #9)",Romance;Drama
+187,Scott Westerfeld,"Uglies (Uglies, #1)",Fantasy
+188,George R.R. Martin,"A Dance with Dragons (A Song of Ice and Fire, #5)",Fantasy;Thriller
+189,J.R.R. Tolkien,"The Lord of the Rings (The Lord of the Rings, #1-3)",Fantasy
+190,Cheryl Strayed,Wild: From Lost to Found on the Pacific Crest Trail,Biography
+191,"Alan Moore, Dave Gibbons, John Higgins",Watchmen,Fiction;Fantasy
+192,Patrick Rothfuss,"The Name of the Wind (The Kingkiller Chronicle, #1)",Fantasy
+193,Malcolm Gladwell,Outliers: The Story of Success,Self-Help
+194,"Herman Melville, Andrew Delbanco, Tom Quirk","Moby-Dick or, The Whale",Classic;Fiction
+195,"Mary Ann Shaffer, Annie Barrows",The Guernsey Literary and Potato Peel Pie Society,History;Fiction
+196,Chuck Palahniuk,Fight Club,Comedy;Drama
+197,Charlaine Harris,"Dead Until Dark (Sookie Stackhouse, #1)",Romance;Fantasy;Fiction
+198,Alice Walker,The Color Purple,Drama;History;Fiction
+199,John Grogan,Marley and Me: Life and Love With the World's Worst Dog,Biography
+200,Agatha Christie,And Then There Were None,Kids;Fiction
+201,Dan Brown,"The Lost Symbol (Robert Langdon, #3)",Thriller;Drama
+202,Becca Fitzpatrick,"Hush, Hush (Hush, Hush, #1)",Horror;Drama
+203,Jamie McGuire,"Beautiful Disaster (Beautiful, #1)",Romance;Drama
+204,Charles Dickens,A Christmas Carol,Fantasy
+205,Anne Rice,"Interview with the Vampire (The Vampire Chronicles, #1)",Horror;Fantasy;Drama
+206,Kiera Cass,"The Selection (The Selection, #1)",Fantasy;Young-Age;Romance
+207,Janet Evanovich,"One for the Money (Stephanie Plum, #1)",Crime
+208,Rebecca Skloot,The Immortal Life of Henrietta Lacks,Biography
+209,Thomas Harris,"The Silence of the Lambs  (Hannibal Lecter, #2)",Crime;Drama
+210,Richelle Mead,"Vampire Academy (Vampire Academy, #1)",Horror;Fantasy;Drama
+211,Malcolm Gladwell,Blink: The Power of Thinking Without Thinking,Self-Help
+212,Ian McEwan,Atonement,Psychological
+213,"Franz Kafka, Stanley Corngold",The Metamorphosis,Comedy;SciFi
+214,Rick Riordan,"The Titan's Curse (Percy Jackson and the Olympians, #3)",Fantasy;Kids;Thriller
+215,Ernest Cline,Ready Player One,SciFi;Fantasy
+216,Garth Stein,The Art of Racing in the Rain,Fiction
+217,"Erik Larson, Tony Goldwyn","The Devil in the White City: Murder, Magic, and Madness at the Fair That Changed America",History
+218,Sylvia Day,"Bared to You (Crossfire, #1)",Erotic;Romance
+219,"C.S. Lewis, Pauline Baynes","The Chronicles of Narnia (Chronicles of Narnia, #1-7)",Fantasy;Kids
+220,Mark Cotta Vaz,Twilight: The Complete Illustrated Movie Companion,Fantasy;Romance
+221,Dave Pelzer,"A Child Called ""It"" (Dave Pelzer #1)",Biography;Kids
+222,Robert Ludlum,"The Bourne Identity (Jason Bourne, #1)",Thriller;Fiction
+223,Eoin Colfer,"Artemis Fowl (Artemis Fowl, #1)",Young-Age;Fantasy
+224,Lauren Kate,"Fallen (Fallen, #1)",Young-Age;Fantasy;Romance;Horror
+225,John Steinbeck,East of Eden,Romance;Fiction
+226,Gillian Flynn,Dark Places,Thriller;Drama
+227,John Grisham,The Client,Thriller;Drama;Fiction
+228,"Emma McLaughlin, Nicola Kraus","The Nanny Diaries (Nanny, #1)",Comedy;Drama
+229,"Lewis Carroll, John Tenniel, Martin Gardner",Alice's Adventures in Wonderland & Through the Looking-Glass,Kids;Fantasy
+230,"Jane Austen, James Kinsley, Deidre Shauna Lynch",Persuasion,Classic;History;Romance
+231,Tatiana de Rosnay,Sarah's Key,History
+232,Stephen King,"The Gunslinger (The Dark Tower, #1)",Fantasy;Fiction
+233,"Gabriel García Márquez, Edith Grossman",Love in the Time of Cholera,Romance;Fantasy
+234,Laurie Halse Anderson,Speak,Young-Age;Drama
+235,Liane Moriarty,The Husband's Secret,Thriller
+236,Jon Krakauer,Into Thin Air: A Personal Account of the Mount Everest Disaster,Biography;History
+237,Stephen King,Carrie,Horror;Thriller;Drama;SciFi
+238,Augusten Burroughs,Running with Scissors,Biography
+239,Max Brooks,World War Z: An Oral History of the Zombie War,Horror;Fiction
+240,Dan Brown,"Inferno (Robert Langdon, #4)",Thriller;Fiction
+241,Lois Lowry,Number the Stars,History;Fiction
+242,James Patterson,"Along Came a Spider (Alex Cross, #1)",Crime;Thriller
+243,Stephen King,Misery,Psychological;Horror
+244,Gillian Flynn,Sharp Objects,Thriller;Fiction
+245,Katherine Paterson,Bridge to Terabithia,Kids
+246,"P.C. Cast, Kristin Cast","Marked (House of Night, #1)",Young-Age;Romance
+247,Stephen R. Covey,The 7 Habits of Highly Effective People: Powerful Lessons in Personal Change,Self-Help
+248,"William Shakespeare, Barbara A. Mowat, Paul Werstine, Catherine Belsey",A Midsummer Night's Dream,Comedy;Fantasy
+249,Jonathan Safran Foer,Extremely Loud and Incredibly Close,Fiction;History
+250,R.J. Palacio,Wonder,Drama
+251,Dr. Seuss,The Cat in the Hat,Kids
+252,Marissa Meyer,"Cinder (The Lunar Chronicles, #1)",Fantasy;Romance
+253,"Robert Galbraith, J.K. Rowling","The Cuckoo's Calling (Cormoran Strike, #1)",Thriller;Fantasy
+254,Maggie Stiefvater,"Shiver (The Wolves of Mercy Falls, #1)",Fantasy
+255,"Ayn Rand, Leonard Peikoff",Atlas Shrugged,Thriller;Romance;Fantasy
+256,"Greg Mortenson, David Oliver Relin",Three Cups of Tea: One Man's Mission to Promote Peace ... One School at a Time,Biography
+257,"Jane Carruth, Lewis Carroll, Rene Cloke",Alice in Wonderland,Fantasy;Drama
+258,"Carlos Ruiz Zafón, Lucia Graves","The Shadow of the Wind (The Cemetery of Forgotten Books,  #1)",Thriller;Fantasy
+259,James Dashner,"The Scorch Trials (Maze Runner, #2)",Fantasy;Thriller
+260,Dale Carnegie,How to Win Friends and Influence People,Self-Help
+261,Frances Mayes,Under the Tuscan Sun,Romance;Self-Help
+262,Liane Moriarty,Big Little Lies,Drama;Thriller
+263,Gail Carson Levine,Ella Enchanted,Fiction
+264,Ernest Hemingway,The Sun Also Rises,Fiction
+265,Betty  Smith,A Tree Grows in Brooklyn,Fiction
+266,James Patterson,"Kiss the Girls (Alex Cross, #2)",Thriller
+267,Kristin Hannah,The Nightingale,Fiction;Biography
+268,Kazuo Ishiguro,Never Let Me Go,Drama
+269,Cecelia Ahern,P.S. I Love You,Romance;Drama
+270,"Daphne du Maurier, Sally Beauman",Rebecca,Thriller;Romance
+271,Daniel Keyes,Flowers for Algernon,Fiction
+272,"Laura Esquivel, Thomas  Christensen, Carol Christensen",Like Water for Chocolate,Romance;Drama
+273,Lisa See,Snow Flower and the Secret Fan,Fiction
+274,"Mario Puzo, Robert Thompson, Peter Bart",The Godfather,Thriller;Drama
+275,John Green,An Abundance of Katherines,Romance
+276,Isaac Asimov,Foundation (Foundation #1),Fiction
+277,Neil Gaiman,The Ocean at the End of the Lane,Horror;Fantasy
+278,Shel Silverstein,A Light in the Attic,Fantasy;Fiction
+279,"John Tiffany, Jack Thorne, J.K. Rowling","Harry Potter and the Cursed Child - Parts One and Two (Harry Potter, #8)",Fantasy;Fiction
+280,Lauren Oliver,"Delirium (Delirium, #1)",Romance
+281,John Grisham,The Pelican Brief,Thriller
+282,Neil Gaiman,Coraline,Fantasy
+283,"Terry Pratchett, Neil Gaiman","Good Omens: The Nice and Accurate Prophecies of Agnes Nutter, Witch",Fantasy
+284,Jack Kerouac,On the Road,Fiction
+285,Graeme Simsion,"The Rosie Project (Don Tillman, #1)",Romance
+286,Nicholas Sparks,The Lucky One,Romance;Drama
+287,"Ayn Rand, Leonard Peikoff",The Fountainhead,Fiction;Self-Help
+288,Tom Clancy,"The Hunt for Red October (Jack Ryan Universe, #4)",Fiction;Thriller
+289,Richard Adams,"Watership Down (Watership Down, #1)",Fiction;Fantasy
+290,Mindy Kaling,Is Everyone Hanging Out Without Me? (And Other Concerns),Biography
+291,Abraham Verghese,Cutting for Stone,Fiction
+292,"C.S. Lewis, Pauline Baynes","The Voyage of the Dawn Treader (Chronicles of Narnia, #3)",Fantasy
+293,Robert Louis Stevenson,Treasure Island,Kids;Fiction;Thriller
+294,Rick Riordan,"The Son of Neptune (The Heroes of Olympus, #2)",Fiction;Kids
+295,Stephen King,11/22/63,Fantasy
+296,Eric Carle,The Very Hungry Caterpillar Board Book,Kids
+297,Kurt Vonnegut Jr.,Cat's Cradle,Fiction
+298,"H.G. Wells, Greg Bear, Carlo Pagetti",The Time Machine,Fantasy
+299,"Todd Burpo, Lynn Vincent",Heaven is for Real: A Little Boy's Astounding Story of His Trip to Heaven and Back,Kids;Drama
+300,John Boyne,The Boy in the Striped Pajamas,Drama;History
+301,Joseph Conrad,Heart of Darkness,History
+302,Nicholas Sparks,Safe Haven,Drama;Romance
+303,Rhonda Byrne,"The Secret (The Secret, #1)",Self-Help
+304,Wally Lamb,I Know This Much Is True,Fiction
+305,Stephen King,Pet Sematary,Drama
+306,Wally Lamb,She's Come Undone,Drama
+307,Patrick Rothfuss,"The Wise Man's Fear (The Kingkiller Chronicle, #2)",Fantasy
+308,Sophie Kinsella,Can You Keep a Secret?,Fiction;Drama
+309,Cassandra Clare,"City of Fallen Angels (The Mortal Instruments, #4)",Fantasy
+310,Jennifer Weiner,"Good in Bed (Cannie Shapiro, #1)",Fiction;Romance
+311,Colleen McCullough,The Thorn Birds,Drama
+312,"Neil Gaiman, Dave McKean",The Graveyard Book,Kids;Fantasy
+313,M.L. Stedman,The Light Between Oceans,Drama;Romance
+314,"Cornelia Funke, Anthea Bell","Inkheart (Inkworld, #1)",Kids;Fantasy
+315,"Spencer Johnson, Kenneth H. Blanchard",Who Moved My Cheese?,Fiction;Self-Help
+316,Bill Bryson,A Walk in the Woods,Biography;Drama
+317,Maya Angelou,I Know Why the Caged Bird Sings,Biography
+318,Christina Baker Kline,Orphan Train,History;Fiction
+319,Cassandra Clare,"City of Lost Souls (The Mortal Instruments, #5)",Fantasy
+320,Maria Semple,"Where'd You Go, Bernadette",Fiction
+321,Wilson Rawls,Where the Red Fern Grows,Kids
+322,Neil Gaiman,Neverwhere,Fantasy
+323,"Milan Kundera, Michael Henry Heim",The Unbearable Lightness of Being,Fiction;Self-Help
+324,Rainbow Rowell,Fangirl,Fiction;Kids
+325,John Irving,A Prayer for Owen Meany,Fiction
+326,Janet Fitch,White Oleander,Fiction;Drama
+327,Marie Lu,"Legend (Legend, #1)",Romance;Fantasy
+328,Jodi Picoult,Nineteen Minutes,Thriller
+329,"Randy Pausch, Jeffrey Zaslow",The Last Lecture,Self-Help;Academic
+330,Robert Jordan,"The Eye of the World (Wheel of Time, #1)",Kids;Fantasy;Fiction
+331,Jodi Picoult,The Pact,Thriller;Horror
+332,C.S. Lewis,"The Magician's Nephew (Chronicles of Narnia, #6)",Kids;Fantasy
+333,Lisa Genova,Still Alice,Drama
+334,Sylvia Day,"Reflected in You (Crossfire, #2)",Romance;Erotic
+335,"Roald Dahl, Quentin Blake",James and the Giant Peach,Fantasy
+336,James Patterson,"1st to Die (Women's Murder Club, #1)",Thriller;Fiction
+337,Douglas Adams,The Ultimate Hitchhiker's Guide to the Galaxy,Fantasy;Fiction
+338,David Nicholls,One Day,Drama;Romance
+339,"Margaret Wise Brown, Clement Hurd",Goodnight Moon,Kids
+340,Pittacus Lore,"I Am Number Four (Lorien Legacies, #1)",Romance;Fantasy
+341,"Homer, Robert Fagles, Frédéric Mugler, Bernard Knox",The Iliad,Poetry
+342,J.K. Rowling,The Casual Vacancy,Fiction;Drama
+343,John Grisham,The Runaway Jury,Thriller;Fiction
+344,David Sedaris,Naked,Fiction
+345,Christopher Paolini,"Eldest (The Inheritance Cycle, #2)",Fantasy;Fiction
+346,"L. Frank Baum, W.W. Denslow","The Wonderful Wizard of Oz (Oz, #1)",Kids;Drama
+347,C.S. Lewis,"Prince Caspian (Chronicles of Narnia, #2)",Kids;Fantasy
+348,E. Lockhart,We Were Liars,Kids;Fiction
+349,Stephen King,Salem's Lot,Horror;Fiction
+350,"Hunter S. Thompson, Ralph Steadman",Fear and Loathing in Las Vegas,Drama
+351,Cassandra Clare,"Clockwork Prince (The Infernal Devices, #2)",Kids;Fiction
+352,Amy Poehler,Yes Please,Biography
+353,William Shakespeare,Othello,Classic
+354,Toni Morrison,Beloved,Fiction;Fantasy
+355,Kristin Cashore,"Graceling (Graceling Realm, #1)",Fantasy;Romance;Fiction
+356,"Lemony Snicket, Brett Helquist","The Bad Beginning (A Series of Unfortunate Events, #1)",Fiction;Thriller
+357,"Erich Maria Remarque, A.W. Wheen",All Quiet on the Western Front,History
+358,Dr. Seuss,"Oh, The Places You'll Go!",Kids
+359,Khaled Hosseini,And the Mountains Echoed,Fiction;History
+360,"Philip K. Dick, Roger Zelazny",Do Androids Dream of Electric Sheep?,Fantasy;Fiction
+361,"Charles Dickens, George Cruikshank, Philip Horne",Oliver Twist,Kids;Fiction
+362,C.S. Lewis,The Screwtape Letters,Drama;History
+363,Stephanie Perkins,"Anna and the French Kiss (Anna and the French Kiss, #1)",Fiction;Romance
+364,Dr. Seuss,How the Grinch Stole Christmas!,Kids;Fantasy
+365,"Alan Moore, David   Lloyd",V for Vendetta,Thriller
+366,David McCullough,John Adams,Biography
+367,Dean Koontz,"Odd Thomas (Odd Thomas, #1)",Horror;Thriller
+368,Philip Pullman,"The Subtle Knife (His Dark Materials, #2)",Kids;Fantasy
+369,Jerry Spinelli,"Stargirl (Stargirl, #1)",Fiction;Romance
+370,Rick Riordan,"The Red Pyramid (Kane Chronicles, #1)",Fantasy
+371,Robert A. Heinlein,Stranger in a Strange Land,Fantasy
+372,David Sedaris,Dress Your Family in Corduroy and Denim,Academic
+373,"Roald Dahl, Quentin Blake",The BFG,Kids;Fiction
+374,Bill Bryson,A Short History of Nearly Everything,History
+375,Jack London,The Call of the Wild,Fiction
+376,James Dashner,"The Death Cure (Maze Runner, #3)",Fantasy;Kids
+377,Neil Gaiman,Stardust,Fantasy;Romance
+378,Jhumpa Lahiri,The Namesake,Drama
+379,Deborah Harkness,"A Discovery of Witches (All Souls Trilogy, #1)",Fantasy;Romance;Fiction
+380,"Haruki Murakami, Jay Rubin",Norwegian Wood,Drama;Erotic
+381,Billie Letts,Where the Heart Is,Drama;Romance
+382,"John Green, David Levithan","Will Grayson, Will Grayson",Fiction;Kids;Romance
+383,James Frey,A Million Little Pieces,Thriller
+384,Richelle Mead,"Frostbite (Vampire Academy, #2)",Thriller;Erotic
+385,Susan Cain,Quiet: The Power of Introverts in a World That Can't Stop Talking,Self-Help
+386,Scott O'Dell,"Island of the Blue Dolphins (Island of the Blue Dolphins, #1)",Kids
+387,"Arthur Miller, Christopher Bigsby",The Crucible,Drama
+388,Gary Paulsen,"Hatchet (Brian's Saga, #1)",Classic;Fiction
+389,Brandon Sanderson,"The Final Empire (Mistborn, #1)",Fantasy;Fiction
+390,"Robert Louis Stevenson, Vladimir Nabokov, Mervyn Peake, Dan Chaon",The Strange Case of Dr. Jekyll and Mr. Hyde,Kids;Horror;Thriller;Fiction
+391,Dr. Seuss,The Lorax,Kids
+392,Jeff Kinney,"Diary of a Wimpy Kid (Diary of a Wimpy Kid, #1)",Kids;Drama
+393,Sarah J. Maas,"Throne of Glass (Throne of Glass, #1)",Fiction;Romance
+394,Richelle Mead,"Shadow Kiss (Vampire Academy, #3)",Fantasy;Erotic
+395,Ernest Hemingway,For Whom the Bell Tolls,History;Drama
+396,Jamie Ford,Hotel on the Corner of Bitter and Sweet,History;Fiction
+397,"Patrick Süskind, John E. Woods",Perfume: The Story of a Murderer,Drama;Fiction
+398,Eric Schlosser,Fast Food Nation: The Dark Side of the All-American Meal,Academic
+399,J.K. Rowling,The Tales of Beedle the Bard,Kids;Fantasy;Fiction
+400,William Gibson,Neuromancer,Fantasy
+401,Ernest Hemingway,A Farewell to Arms,History;Fantasy
+402,Edgar Allan Poe,The Tell-Tale Heart and Other Writings,Horror;Fiction
+403,"Sun Tzu, Thomas Cleary",The Art of War,Self-Help;Fiction
+404,William Landay,Defending Jacob,Thriller;Fiction
+405,Kurt Vonnegut Jr.,Breakfast of Champions,History;Classic
+406,Betty Edwards,The New Drawing on the Right Side of the Brain,Academic
+407,Ann Patchett,Bel Canto,Thriller
+408,Jared Diamond,"Guns, Germs, and Steel: The Fates of Human Societies",Academic
+409,Fannie Flagg,Fried Green Tomatoes at the Whistle Stop Cafe,Fiction
+410,Chinua Achebe,"Things Fall Apart (The African Trilogy, #1)",Academic;History
+411,Sophie Kinsella,The Undomestic Goddess,Kids
+412,Gary Chapman,The Five Love Languages: How to Express Heartfelt Commitment to Your Mate,History;Self-Help
+413,Alexandre Dumas,The Three Musketeers,Classic;Kids
+414,Chris Cleave,Little Bee,Fiction
+415,Alyson Noel,"Evermore (The Immortals, #1)",Fantasy;Fiction
+416,"Roald Dahl, Quentin Blake",The Witches,Kids;Fantasy
+417,Diane Setterfield,The Thirteenth Tale,Thriller;Fiction
+418,Richelle Mead,"Spirit Bound (Vampire Academy, #5)",Romance;Fantasy;Erotic
+419,Richelle Mead,"Blood Promise (Vampire Academy, #4)",Romance;Erotic;Fantasy
+420,Nicholas Sparks,Message in a Bottle,Romance;Drama
+421,Paula McLain,The Paris Wife,Fiction
+422,J.K. Rowling,"Harry Potter Boxset (Harry Potter, #1-7)",Fantasy;Kids
+423,Kiera Cass,"The Elite (The Selection, #2)",Fiction;Kids
+424,"Umberto Eco, William Weaver, Seán Barrett",The Name of the Rose,History;Fiction
+425,"Beatrice Sparks, Anonymous",Go Ask Alice,Self-Help;Fiction
+426,"John Kennedy Toole, Walker Percy",A Confederacy of Dunces,Drama
+427,Oscar Wilde,The Importance of Being Earnest,Fiction;Classic
+428,Rick Riordan,"The Mark of Athena (The Heroes of Olympus, #3)",Fantasy
+429,Terry Pratchett,"The Color of Magic (Discworld, #1; Rincewind #1)",Fantasy;Comedy
+430,"Haruki Murakami, Philip Gabriel",Kafka on the Shore,Fantasy
+431,Thomas Harris,"Red Dragon (Hannibal Lecter, #1)",Horror;Fiction
+432,Isaac Asimov,"I, Robot (Robot #0.1)",Fiction;Fantasy
+433,J.R. Ward,"Dark Lover (Black Dagger Brotherhood, #1)",Fiction;Romance
+434,Becca Fitzpatrick,"Crescendo (Hush, Hush, #2)",Romance;Fiction
+435,Lauren Oliver,Before I Fall,Romance;Kids;Drama
+436,Arundhati Roy,The God of Small Things,Fiction
+437,Sue Monk Kidd,The Invention of Wings,History;Biography
+438,Liane Moriarty,What Alice Forgot,Fiction;Self-Help
+439,"Stephen Hawking, Cao Chi, Phạm Văn Thiều",A Brief History of Time,Academic;Fiction
+440,Ken Follett,"Fall of Giants (The Century Trilogy, #1)",History
+441,Stephen King,Under the Dome,Fantasy;Fiction
+442,Neal Stephenson,Snow Crash,Fantasy
+443,Sarah Dessen,Just Listen,Fiction;Self-Help
+444,"A.A. Milne, Ernest H. Shepard","Winnie-the-Pooh (Winnie-the-Pooh, #1)",Kids;Comedy
+445,S.J. Watson,Before I Go to Sleep,Thriller
+446,Arthur Conan Doyle,A Study in Scarlet,Thriller
+447,Christopher Paolini,"Brisingr (The Inheritance Cycle, #3)",Fantasy
+448,Rick Warren,The Purpose Driven Life: What on Earth Am I Here for?,Self-Help;History
+449,"P.C. Cast, Kristin Cast","Betrayed (House of Night, #2)",Erotic
+450,Jim Butcher,"Storm Front (The Dresden Files, #1)",Fiction;Fantasy
+451,"Jane Austen, Alfred MacAdam",Northanger Abbey,Classic;Romance
+452,Rick Yancey,"The 5th Wave (The 5th Wave, #1)",Fiction
+453,Charles Frazier,Cold Mountain,Drama;Romance
+454,"Laura Joffe Numeroff, Felicia Bond",If You Give a Mouse a Cookie,Kids
+455,Emily Giffin,"Something Blue (Darcy & Rachel, #2)",Fiction;Romance
+456,Tennessee Williams,A Streetcar Named Desire,Romance;Drama
+457,Elizabeth Kostova,The Historian,Horror;Fiction
+458,Emily St. John Mandel,Station Eleven,Fantasy
+459,"Fredrik Backman, Henning Koch",A Man Called Ove,Drama
+460,Cassandra Clare,"Clockwork Princess (The Infernal Devices, #3)",Romance;Fantasy
+461,Pearl S. Buck,"The Good Earth (House of Earth, #1)",Classic;Fiction
+462,John Berger,Ways of Seeing,Academic;Fiction
+463,Diana Gabaldon,"Dragonfly in Amber (Outlander, #2)",History;Romance
+464,Anonymous,Holy Bible: King James Version,Self-Help
+465,Jennifer Weiner,In Her Shoes,Drama;Comedy
+466,"Chuck Dixon, J.R.R. Tolkien, David Wenzel, Sean Deming",The Hobbit: Graphic Novel,Classic;Fiction
+467,Junot Díaz,The Brief Wondrous Life of Oscar Wao,Fiction;Self-Help
+468,Zora Neale Hurston,Their Eyes Were Watching God,Fiction
+469,"Newt Scamander, J.K. Rowling, Albus Dumbledore",Fantastic Beasts and Where to Find Them,Kids;Fantasy
+470,"Malala Yousafzai, Christina Lamb",I Am Malala: The Story of the Girl Who Stood Up for Education and Was Shot by the Taliban,Biography
+471,"Jane Austen, Kathryn Sutherland, Tony Tanner, Claire Lamont",Mansfield Park,Classic
+472,Viktor E. Frankl,Man's Search for Meaning,Self-Help;Fiction
+473,Tana French,"In the Woods (Dublin Murder Squad, #1)",Thriller
+474,Richard Dawkins,The God Delusion,Academic;Fiction
+475,Gayle Forman,"Where She Went (If I Stay, #2)",Drama;Romance
+476,John Irving,The World According to Garp,Comedy;Fiction
+477,Lee Child,"Killing Floor (Jack Reacher, #1)",Thriller
+478,"Daniel Defoe, Gerald McCann, Virginia Woolf",Robinson Crusoe,History;Fiction;Classic
+479,"Niccolò Machiavelli, Adolph Caso, Rufus Goodwin, Benjamin Martinez",The Prince,History
+480,Philip Pullman,"The Amber Spyglass (His Dark Materials, #3)",Fantasy
+481,Terry Goodkind,"Wizard's First Rule (Sword of Truth, #1)",Fantasy;Fiction
+482,Kathleen Grissom,The Kitchen House,History;Fiction
+483,J.D. Salinger,Franny and Zooey,Fiction
+484,Chuck Palahniuk,Choke,Erotic;Fiction
+485,"Fyodor Dostoyevsky, Richard Pevear, Larissa Volokhonsky",The Brothers Karamazov,Fiction;Academic
+486,Jeanne DuPrau,"The City of Ember (Book of Ember, #1)",Fantasy;Fiction
+487,Michael Crichton,The Andromeda Strain,Thriller;Fiction
+488,Stephen King,The Green Mile,Fantasy
+489,Kahlil Gibran,The Prophet,Poetry
+490,Art Spiegelman,"Maus I: A Survivor's Tale: My Father Bleeds History (Maus, #1)",History
+491,"P.C. Cast, Kristin Cast","Untamed (House of Night, #4)",Erotic;Fantasy
+492,Orson Scott Card,"Speaker for the Dead (Ender's Saga, #2)",Fiction
+493,C.S. Lewis,Mere Christianity,Self-Help;Fiction
+494,Donna Tartt,The Secret History,Fiction
+495,Dave Eggers,A Heartbreaking Work of Staggering Genius,Biography
+496,Jean M. Auel,"The Clan of the Cave Bear (Earth's Children, #1)",Romance;Fiction
+497,Anna Sewell,Black Beauty,Kids;Classic
+498,"Leo Tolstoy, Henry Gifford, Aylmer Maude, Louise Maude",War and Peace,History
+499,Bret Easton Ellis,American Psycho,Thriller;Horror
+500,Meg Cabot,"The Princess Diaries (The Princess Diaries, #1)",Romance;Drama
+501,Alexander McCall Smith,"The No. 1 Ladies' Detective Agency  (No. 1 Ladies' Detective Agency, #1)",Thriller;Drama
+502,"Robert Kirkman, Tony Moore","The Walking Dead, Vol. 01: Days Gone Bye",Thriller;Drama
+503,Arthur C. Clarke,"2001: A Space Odyssey (Space Odyssey, #1)",Fantasy
+504,Francine Rivers,Redeeming Love,Romance;Drama
+505,"Tim LaHaye, Jerry B. Jenkins","Left Behind (Left Behind, #1)",Drama
+506,Kiera Cass,"The One (The Selection, #3)",Romance
+507,Suzanne Collins,"The Hunger Games Trilogy Boxset (The Hunger Games, #1-3)",Fantasy;Thriller;Romance
+508,Barbara Ehrenreich,Nickel and Dimed: On (Not) Getting By in America,Biography
+509,Sophie Kinsella,Remember Me?,Romance;Drama
+510,Robert Jordan,"The Great Hunt (Wheel of Time, #2)",Fantasy;Drama
+511,Patricia Cornwell,"Postmortem (Kay Scarpetta, #1)",Fiction;Thriller;Drama
+512,Edgar Allan Poe,The Complete Stories and Poems,Poetry;Fiction
+513,"Corrie ten Boom, John Sherrill, Elizabeth Sherrill",The Hiding Place: The Triumphant True Story of Corrie Ten Boom,Biography
+514,Arthur Conan Doyle,The Adventures of Sherlock Holmes,Fiction;Thriller;Drama
+515,Pat Conroy,The Prince of Tides,Romance;Drama
+516,Michael Chabon,The Amazing Adventures of Kavalier & Clay,Fiction
+517,Simone Elkeles,"Perfect Chemistry (Perfect Chemistry, #1)",Romance;Fiction
+518,"J.M. Barrie, Michael Hague",Peter Pan,Kids;Fantasy;Fiction
+519,Scott Westerfeld,"Pretties (Uglies, #2)",Drama;Fiction
+520,"Haruki Murakami, Jay Rubin",The Wind-Up Bird Chronicle,Fiction
+521,Michael Connelly,"The Lincoln Lawyer (Mickey Haller, #1; Harry Bosch Universe, #16)",Thriller;Fiction
+522,David Mitchell,Cloud Atlas,Drama;Fantasy;Fiction
+523,Tim O'Brien,The Things They Carried,Fiction;Drama
+524,Banksy,Wall and Piece,Biography;Drama
+525,Lauren Oliver,"Pandemonium (Delirium, #2)",Fiction;Romance
+526,Jeff Lindsay,"Darkly Dreaming Dexter (Dexter, #1)",Thriller;Fiction;
+527,Charlaine Harris,"Living Dead in Dallas (Sookie Stackhouse, #2)",Fantasy;Fiction;Romance
+528,Robert Jordan,"The Dragon Reborn (Wheel of Time, #3)",Fantasy;Fiction
+529,"Jonathan Swift, Robert DeMaria Jr.",Gulliver's Travels,Kids;Fantasy;Fiction;Drama
+530,"William Shakespeare, Barbara A. Mowat, Paul Werstine, Gail Kern Paster, Robert          Jackson",Much Ado About Nothing,Drama;Fiction
+531,"Unknown, Seamus Heaney",Beowulf,Poetry;Drama
+532,"Frank Miller, David Mazzucchelli, Richmond Lewis, Dennis O'Neil",Batman: Year One,Fiction;Drama
+533,Harper Lee,Go Set a Watchman,Fiction
+534,David Sedaris,When You Are Engulfed in Flames,Biography;History
+535,Laini Taylor,"Daughter of Smoke & Bone (Daughter of Smoke & Bone, #1)",Fantasy;Fiction
+536,Victoria Aveyard,"Red Queen (Red Queen, #1)",Romance;Fiction;Fantasy
+537,Charles Duhigg,The Power of Habit: Why We Do What We Do in Life and Business,Self-Help
+538,John Berendt,Midnight in the Garden of Good and Evil,Thriller;Fiction
+539,Colleen Hoover,"Hopeless (Hopeless, #1)",Romance;Fiction
+540,"Frances Hodgson Burnett, Nancy Bond",A Little Princess,Kids;Fiction
+541,Sarah Dessen,The Truth About Forever,Romance;Kids
+542,C.S. Lewis,"The Horse and His Boy (Chronicles of Narnia, #5)",Fantasy;Kids;Fiction
+543,Richelle Mead,"Last Sacrifice (Vampire Academy, #6)",Fantasy;Fiction;Thriller
+544,"Laura Ingalls Wilder, Garth Williams","Little House on the Prairie (Little House, #2)",Kids;Fiction
+545,"Margery Williams Bianco, William   Nicholson",The Velveteen Rabbit,Kids;Fiction
+546,Robert M. Pirsig,Zen and the Art of Motorcycle Maintenance: An Inquiry Into Values,Fiction;Self-Help
+547,"H.G. Wells, Arthur C. Clarke",The War of the Worlds,Fiction
+548,Sara Shepard,"Pretty Little Liars (Pretty Little Liars, #1)",Kids;Fiction
+549,Don Freeman,Corduroy,Kids
+550,Michael Pollan,The Omnivore's Dilemma: A Natural History of Four Meals,Academic
+551,Kate Atkinson,Life After Life,History;Fiction
+552,Nicholas Sparks,The Rescue,Romance;Fiction
+553,Stephen King,Needful Things,Horror;Thriller
+554,Diana Gabaldon,"Voyager (Outlander, #3)",History;Fantasy;Fiction
+555,"Kenneth Branagh, William Shakespeare","Hamlet: Screenplay, Introduction And Film Diary",Drama;Fiction
+556,Stephen King,Cujo,Horror;Thriller
+557,Jeffrey Eugenides,The Virgin Suicides,Drama
+558,Charlaine Harris,"Dead to the World (Sookie Stackhouse, #4)",Fantasy;Romance
+559,"Thomas Hardy, Tim Dolin, Margaret R. Higonnet",Tess of the D'Urbervilles,Romance;Fiction
+560,"Gustave Flaubert, Margaret Mauldon, Malcolm Bowie, Mark Overstall",Madame Bovary,Classic
+561,"Norton Juster, Jules Feiffer",The Phantom Tollbooth,Fantasy
+562,Brandon Sanderson,"The Way of Kings (The Stormlight Archive, #1)",Fantasy;Fiction
+563,Charlaine Harris,"Club Dead (Sookie Stackhouse, #3)",Fantasy;Romance
+564,Ned Vizzini,It's Kind of a Funny Story,Kids;Fiction
+565,Brandon Sanderson,"The Well of Ascension (Mistborn, #2)",Fantasy;Fiction
+566,Jojo Moyes,"After You (Me Before You, #2)",Romance;Fiction
+567,Vanessa Diffenbaugh,The Language of Flowers,Romance;Fiction
+568,"Frank Miller, Klaus Janson, Lynn Varley","Batman: The Dark Knight Returns (The Dark Knight Saga, #1)",Fantasy;Fiction
+569,James Patterson,"The Angel Experiment (Maximum Ride, #1)",Fiction;Fantasy
+570,Nick Hornby,High Fidelity,Fiction;Romance
+571,Nicholas Sparks,The Guardian,Romance;Kids;Fiction
+572,Margaret Atwood,"Oryx and Crake (MaddAddam, #1)",Fiction;Thriller
+573,John Gray,"Men Are from Mars, Women Are from Venus",Self-Help
+574,Anthony Bourdain,Kitchen Confidential: Adventures in the Culinary Underbelly,Biography
+575,Michael Crichton,Timeline,Fiction;History
+576,Voltaire,Candide,Drama;Fiction
+577,Natalie Babbitt,Tuck Everlasting,Drama;Romance;Fiction
+578,"Stephen King, Marie Milpois",Christine,Horror;Fiction
+579,P.D. Eastman,Are You My Mother?,Kids;Fiction
+580,E.H. Gombrich,The Story of Art,Academic;History
+581,Marissa Meyer,"Scarlet (The Lunar Chronicles, #2)",SciFi;Romance;Young-Age
+582,Robert T. Kiyosaki,"Rich Dad, Poor Dad",Self-Help
+583,Becca Fitzpatrick,"Silence (Hush, Hush, #3)",Fantasy;Young-Age
+584,Lev Grossman,The Magicians (The Magicians #1),Fantasy
+585,"Tsugumi Ohba, Takeshi Obata","Death Note, Vol. 1: Boredom (Death Note, #1)",Thriller;Fantasy;Horror;Drama;Crime
+586,Libba Bray,"A Great and Terrible Beauty (Gemma Doyle, #1)",Kids;Fantasy
+587,Jonathan Safran Foer,Everything Is Illuminated,History;Fiction
+588,Robert Ludlum,"The Bourne Supremacy (Jason Bourne, #2)",Thriller;Drama
+589,Tammara Webber,"Easy (Contours of the Heart, #1)",Kids;Romance
+590,"Charles Dickens, Jeremy Tambling",David Copperfield,Classic;Kids;Drama;Romance
+591,"Sherman Alexie, Ellen Forney",The Absolutely True Diary of a Part-Time Indian,Young-Age
+592,"Mikhail Bulgakov, Katherine Tiernan O'Connor, Diana Burgin, Ellendea Proffer",The Master and Margarita,Drama;History
+593,Ursula K. Le Guin,"A Wizard of Earthsea (Earthsea Cycle, #1)",Classic;Fiction
+594,"Kate DiCamillo, Chris Sheban",Because of Winn-Dixie,Kids;Fiction
+595,John Knowles,A Separate Peace,Fantasy;Classic
+596,John Grisham,The Rainmaker,Thriller;Fiction
+597,"Miguel de Cervantes Saavedra, Roberto González Echevarría, John Rutherford",Don Quixote,Classic;Drama
+598,Robin Hobb,"Assassin's Apprentice (Farseer Trilogy, #1)",Fantasy
+599,Douglas Adams,"The Restaurant at the End of the Universe (Hitchhiker's Guide, #2)",SciFi;Drama
+600,Lauren Kate,"Torment (Fallen, #2)",Young-Age;Fantasy
+601,Beatrix Potter,The Tale of Peter Rabbit,Kids
+602,"C.S. Lewis, Pauline Baynes","The Silver Chair (Chronicles of Narnia, #4)",Kids;Fantasy;Fiction
+603,Brandon Sanderson,"The Hero of Ages (Mistborn, #3)",Fantasy;Fiction
+604,Susanna Kaysen,"Girl, Interrupted",Biography
+605,Chelsea Handler,"Are You There, Vodka? It's Me, Chelsea",Biography
+606,"Richard Bach, Russell Munson",Jonathan Livingston Seagull,Self-Help
+607,Cassandra Clare,"City of Heavenly Fire (The Mortal Instruments, #6)",Fantasy;Fiction
+608,"Robert Munsch, Sheila McGraw",Love You Forever,Fiction
+609,Stephen King,Cell,Horror;Fiction
+610,Daniel James Brown,The Boys in the Boat: Nine Americans and Their Epic Quest for Gold at the 1936 Berlin Olympics,History;Biography
+611,"J.R.R. Tolkien, Christopher Tolkien, Ted Nasmith",The Silmarillion (Middle-Earth Universe),Fantasy
+612,Stephen King,"The Drawing of the Three (The Dark Tower, #2)",Fantasy;Horror
+613,Kate Morton,The Forgotten Garden,Domestic;History
+614,"Franz Kafka, Edwin Muir, Willa Muir, Max Brod",The Trial,Fiction;Drama
+615,Sarah Dessen,This Lullaby,Kids;Romance;Fiction;Young-Age
+616,Jodi Picoult,Plain Truth,Fantasy;Fiction
+617,Piper Kerman,Orange Is the New Black,Biography
+618,"Arthur Conan Doyle, Anne Perry",The Hound of the Baskervilles,Thriller
+619,Daniel Kahneman,"Thinking, Fast and Slow",Self-Help
+620,Marion Zimmer Bradley,"The Mists of Avalon (Avalon, #1)",Fantasy;History
+621,Judy Blume,"Are You There God? It's Me, Margaret",Drama;Young-Age
+622,Nicholas Sparks,Nights in Rodanthe,Romance;Drama
+623,Stephen King,"Mr. Mercedes (Bill Hodges Trilogy, #1)",Thriller;Horror;Crime
+624,Charlaine Harris,"All Together Dead (Sookie Stackhouse, #7)",Fantasy;Fiction;Romance
+625,Chris Bohjalian,Midwives,Fiction
+626,Chris Van Allsburg,The Polar Express,Kids;Fiction
+627,"Jon Scieszka, Lane Smith",The True Story of the 3 Little Pigs,Kids;Fiction
+628,Tom Clancy,"Patriot Games (Jack Ryan Universe, #2)",Thriller;Fiction
+629,"Paulo Coelho, Margaret Jull Costa",Veronika Decides to Die,Fiction;Thriller;Self-Help
+630,"Sheryl Sandberg, Nell Scovell","Lean In: Women, Work, and the Will to Lead",Biography
+631,Charlaine Harris,"Dead as a Doornail (Sookie Stackhouse, #5)",Fantasy;Fiction;Romance
+632,Tahereh Mafi,"Shatter Me (Shatter Me, #1)",Romance;Young-Age
+633,Robert A. Heinlein,Starship Troopers,Classic;SciFi
+634,Sophie Kinsella,I've Got Your Number,Drama;Comedy
+635,"Jostein Gaarder, Paulette Møller",Sophie's World,Fiction
+636,Mark Cotta Vaz,"The Twilight Saga Breaking Dawn Part 1: The Official Illustrated Movie Companion (The Twilight Saga: The Official Illustrated Movie Companion, #4)",Romance;Fantasy;Fiction
+637,Ray Bradbury,The Martian Chronicles,Horror;SciFi
+638,Jennifer Egan,A Visit from the Goon Squad,Psychological
+639,"Johanna Spyri, Angelo  Rinaldi, Beverly Cleary",Heidi,Kids;Classic
+640,Michael Crichton,Prey,Thriller;SciFi
+641,C.S. Lewis,"The Last Battle (Chronicles of Narnia, #7)",Fantasy;Kids
+642,Ken Follett,"World Without End (The Kingsbridge Series, #2)",History;Fiction
+643,"P.C. Cast, Kristin Cast","Chosen (House of Night, #3)",Fantasy;Thriller;Fiction
+644,Colleen Hoover,"Slammed (Slammed, #1)",Romance;Fiction
+645,Alex Flinn,"Beastly (Beastly, #1; Kendra Chronicles, #1)",Kids;Fantasy;Romance
+646,"Geoffrey Chaucer, Nevill Coghill",The Canterbury Tales,Poetry;Fiction
+647,Emily Giffin,Baby Proof,Romance;Drama;Domestic
+648,Christopher Paolini,"Inheritance (The Inheritance Cycle, #4)",Fantasy
+649,"Haruki Murakami, Jay Rubin, Philip Gabriel",1Q84,History;Fiction
+650,Harriet Beecher Stowe,Uncle Tom's Cabin,Classic;Fiction
+651,"Gaston Leroux, Alexander Teixeira de Mattos",The Phantom of the Opera,Horror;Romance
+652,Charlaine Harris,"Definitely Dead (Sookie Stackhouse, #6)",Fantasy;Fiction;Romance
+653,"José Saramago, Giovanni Pontiero",Blindness,Horror;Fiction
+654,Jonathan Franzen,Freedom,Domestic
+655,Ally Condie,"Crossed (Matched, #2)",Drama;Romance
+656,Ally Carter,"I'd Tell You I Love You, But Then I'd Have to Kill You (Gallagher Girls, #1)",Young-Age;Thriller
+657,Aravind Adiga,The White Tiger,Fiction;Drama
+658,Jonathan Franzen,The Corrections,Domestic
+659,Barack Obama,Dreams from My Father: A Story of Race and Inheritance,Biography
+660,Michael Crichton,Congo,Thriller;Fiction
+661,"Judith Viorst, Ray Cruz","Alexander and the Terrible, Horrible, No Good, Very Bad Day",Kids
+662,Jhumpa Lahiri,Interpreter of Maladies,Classic;Academic
+663,Howard Zinn,A People's History of the United States,History;Academic
+664,Truman Capote,Breakfast at Tiffany's,Classic;Fiction
+665,Justin Cronin,"The Passage (The Passage, #1)",Horror;SciFi;Fantasy
+666,Neil Gaiman,Anansi Boys,Fantasy
+667,Sarah Dessen,Along for the Ride,Young-Age;Romance;Drama
+668,Celeste Ng,Everything I Never Told You,Fiction
+669,"Isabel Allende, Magda Bogin",The House of the Spirits,Biography
+670,Stephen King,The Dead Zone,Horror;Thriller
+671,"Agatha Christie, Ροζίτα Σώκου","The Mysterious Affair at Styles (Hercule Poirot, #1)",Classic;Thriller
+672,Agatha Christie,"Murder on the Orient Express (Hercule Poirot, #10)",Classic;Thriller
+673,Chimamanda Ngozi Adichie,Americanah,Fiction
+674,James Patterson,Suzanne's Diary for Nicholas,Romance;Fiction
+675,Stephen King,Firestarter,Horror;Thriller;SciFi
+676,Sylvia Day,"Entwined with You (Crossfire, #3)",Erotic;Romance
+677,Christopher McDougall,"Born to Run: A Hidden Tribe, Superathletes, and the Greatest Race the World Has Never Seen",Biography;History
+678,Gabrielle Zevin,The Storied Life of A.J. Fikry,Drama;Psychological
+679,Ludwig Bemelmans,Madeline,Kids;Fiction
+680,Napoleon Hill,Think and Grow Rich: The Landmark Bestseller - Now Revised and Updated for the 21st Century,Self-Help;Fiction
+681,"Laura Ingalls Wilder, Garth Williams","Little House in the Big Woods (Little House, #1)",Kids;History;Fiction
+682,Susanna Clarke,Jonathan Strange & Mr Norrell,Fiction;History
+683,Nicholas Sparks,A Bend in the Road,Romance;Psychological
+684,Rick Riordan,"The House of Hades (The Heroes of Olympus, #4)",Fantasy;Young-Age
+685,Michael  Grant,"Gone (Gone, #1)",Horror;SciFi;Thriller
+686,Nicholas Sparks,"The Wedding (The Notebook, #2)",Romance;Fiction
+687,David McCullough,1776,History
+688,Jon Krakauer,Under the Banner of Heaven: A Story of Violent Faith,History
+689,Jess Walter,Beautiful Ruins,Romance;History;Fiction
+690,Barack Obama,The Audacity of Hope: Thoughts on Reclaiming the American Dream,Biography
+691,Stephen King,On Writing: A Memoir of the Craft,Biography
+692,Kristin Hannah,"Firefly Lane (Firefly Lane, #1)",Romance;Fiction
+693,Michael Crichton,Sphere,Thriller;Fiction
+694,Emily Giffin,Love the One You're With,Romance;Fiction
+695,"Robert Galbraith, J.K. Rowling","The Silkworm (Cormoran Strike, #2)",Thriller;Crime
+696,Anne Rice,"The Vampire Lestat (The Vampire Chronicles, #2)",Horror;Fantasy
+697,Ann Patchett,State of Wonder,Fiction;Drama
+698,Matthew Quick,The Silver Linings Playbook,Comedy;Drama;Fiction
+699,"Jules Verne, Anthony Bonner",Twenty Thousand Leagues Under the Sea,Fiction;Drama
+700,Philippa Gregory,"The Constant Princess (The Plantagenet and Tudor Novels, #6)",History;Fiction
+701,"Virginia Woolf, Maureen Howard",Mrs. Dalloway,Fiction
+702,"Jonas Jonasson, Rod Bradbury",The Hundred-Year-Old Man Who Climbed Out of the Window and Disappeared,Fiction
+703,Stephen King,Bag of Bones,Fiction
+704,John Irving,The Cider House Rules,Fiction
+705,"Richard Bachman, Stephen King",Thinner,Horror
+706,"Jules Verne, Michael Glencross, Brian W. Aldiss",Around the World in Eighty Days,Thriller;Fiction
+707,Sharon Creech,Walk Two Moons,Young-Age
+708,"Paulo Coelho, Margaret Jull Costa",Eleven Minutes,Erotic;Fiction
+709,J.D. Salinger,Nine Stories,Drama;
+710,Julie Powell,"Julie and Julia: 365 Days, 524 Recipes, 1 Tiny Apartment Kitchen: How One Girl Risked Her Marriage, Her Job, and Her Sanity to Master the Art of Living",Biography
+711,Neal Shusterman,"Unwind (Unwind, #1)",Drama;Thriller;Fiction
+712,Diana Gabaldon,"Drums of Autumn (Outlander, #4)",History;Fiction
+713,Marie Lu,"Prodigy (Legend, #2)",Young-Age;Romance;Fiction
+714,William Shakespeare,King Lear,Classic;Drama
+715,Arthur Miller,Death of a Salesman,Classic;Academic
+716,Nicholas Sparks,The Choice,Romance;Fiction
+717,Kate Egan,The Hunger Games: Official Illustrated Movie Companion,SciFi;Drama
+718,William Faulkner,The Sound and the Fury,Classic;Fiction
+719,Eckhart Tolle,A New Earth: Awakening to Your Life's Purpose,Self-Help
+720,Tite Kubo,"Bleach, Volume 01",Fantasy;Fiction
+721,Allie Brosh,"Hyperbole and a Half: Unfortunate Situations, Flawed Coping Mechanisms, Mayhem, and Other Things That Happened",Comedy;Biography
+722,Robert Jordan,"The Shadow Rising (Wheel of Time, #4)",Fantasy;Fiction
+723,Gregory David Roberts,Shantaram,Fiction;Biography;Crime
+724,Charlaine Harris,"From Dead to Worse (Sookie Stackhouse, #8)",Fantasy;Fiction;Romance
+725,"Stephen King, Ned Dameron","The Waste Lands (The Dark Tower, #3)",Fantasy;Horror;SciFi
+726,Jeffery Deaver,"The Bone Collector (Lincoln Rhyme, #1)",Thriller;Crime
+727,"Bernhard Schlink, Carol Brown Janeway",The Reader,History
+728,"Bill Martin Jr., Eric Carle","Brown Bear, Brown Bear, What Do You See?",Kids;Fiction
+729,Dan Simmons,"Hyperion (Hyperion Cantos, #1)",SciFi
+730,John Steinbeck,The Pearl,Fiction
+731,William Peter Blatty,The Exorcist,Horror
+732,Stephenie Meyer,"The Short Second Life of Bree Tanner: An Eclipse Novella (Twilight, #3.5)",Kids;Fantasy;Fiction;Romance
+733,David Guterson,Snow Falling on Cedars,Fiction;Thriller
+734,Alex Haley,Roots: The Saga of an American Family,History;Fiction
+735,"Alan Moore, Brian Bolland, Tim Sale",Batman: The Killing Joke,Comedy;Fiction
+736,Ralph Ellison,Invisible Man,Thriller;Drama
+737,Ishmael Beah,A Long Way Gone: Memoirs of a Boy Soldier,Biography
+738,Robert C. O'Brien,"Mrs. Frisby and the Rats of NIMH (Rats of NIMH, #1)",Classic;Kids
+739,Stephen King,Different Seasons,Horror;Comedy;Fiction;Fantasy
+740,"Laura Ingalls Wilder, Garth Williams","The Little House Collection (Little House, #1-9)",Classic;Kids
+741,Melissa Bank,The Girls' Guide to Hunting and Fishing,Fiction;Romance
+742,Hugh Howey,"Wool Omnibus (Silo, #1)",SciFi
+743,Christopher Moore,"Lamb: The Gospel According to Biff, Christ's Childhood Pal",Comedy;Fiction
+744,Eckhart Tolle,The Power of Now: A Guide to Spiritual Enlightenment,Self-Help
+745,Jenny  Lawson,Let's Pretend This Never Happened: A Mostly True Memoir,Biography;Comedy
+746,Scott Lynch,"The Lies of Locke Lamora (Gentleman Bastard, #1)",Fantasy
+747,Garth Nix,"Sabriel (Abhorsen,  #1)",Fiction;Fantasy
+748,Charlaine Harris,"Dead and Gone (Sookie Stackhouse, #9)",Fantasy;Fiction;Romance
+749,Jodi Picoult,The Storyteller,Psychological;History
+750,Jennifer L. Armentrout,"Obsidian (Lux, #1)",Fiction
+751,Douglas Adams,"Life, the Universe and Everything (Hitchhiker's Guide, #3)",SciFi
+752,Sarah J. Maas,"Crown of Midnight (Throne of Glass, #2)",Fiction;Fantasy
+753,Bryan Lee O'Malley,"Scott Pilgrim, Volume 1: Scott Pilgrim's Precious Little Life",Kids;Fiction
+754,Jeannette Walls,Half Broke Horses,History;Fiction
+755,Terry Pratchett,"Mort (Death, #1; Discworld, #4)",Fantasy
+756,Julie Kagawa,"The Iron King (The Iron Fey, #1)",Fantasy;Fiction
+757,Larry McMurtry,Lonesome Dove,Romance;Fiction
+758,Mary Roach,Stiff: The Curious Lives of Human Cadavers,History
+759,Richelle Mead,"Bloodlines (Bloodlines, #1)",Fantasy;Young-Age
+760,Orson Scott Card,"Ender's Shadow (Ender's Shadow, #1)",SciFi
+761,Sophie Kinsella,Twenties Girl,Comedy
+762,Thomas Keneally,Schindler's List,Biography;Fiction
+763,Toni Morrison,The Bluest Eye,Fiction;Biography
+764,Philippa Gregory,"The White Queen (The Plantagenet and Tudor Novels, #2)",History;Fiction
+765,"Malcolm X, Alex Haley",The Autobiography of Malcolm X,Biography
+766,"Neil Gaiman, Sam Kieth, Mike Dringenberg, Malcolm Jones III, Todd Klein, Karen  Berger",Preludes & Nocturnes (The Sandman #1),Horror;Fantasy;Fiction
+767,Laura Hillenbrand,Seabiscuit: An American Legend,Biography
+768,Dennis Lehane,Shutter Island,Crime;Horror;Psychological
+769,Arthur Conan Doyle,The Complete Sherlock Holmes,Fiction
+770,"William Shakespeare, Roma Gill",Julius Caesar,History;Classic
+771,Erik Larson,"In the Garden of Beasts: Love, Terror, and an American Family in Hitler's Berlin",History
+772,"Plato, Desmond Lee",The Republic,Fiction;Fantasy
+773,William Shakespeare,The Taming of the Shrew,Comedy;Classic
+774,Marissa Meyer,"Cress (The Lunar Chronicles, #3)",Romance;Young-Age;SciFi
+775,Patti Smith,Just Kids,Biography
+776,Phaidon Press,The Art Book,Kids
+777,Jane Green,Jemima J,Comedy;Fiction;Romance
+778,"Victor Hugo, Walter J. Cobb",The Hunchback of Notre-Dame,Romance;Fiction
+779,Rohinton Mistry,A Fine Balance,History;Fiction
+780,"Bill Watterson, G.B. Trudeau",Calvin and Hobbes,Comedy;Kids
+781,Scott Westerfeld,"Specials (Uglies, #3)",SciFi;Young-Age
+782,Kate Chopin,The Awakening,Psychological;Romance
+783,"P.C. Cast, Kristin Cast","Hunted (House of Night, #5)",Fantasy;Young-Age
+784,Mitch Albom,For One More Day,Fiction;Kids
+785,Tom Clancy,"Clear and Present Danger (Jack Ryan Universe, #6)",Thriller
+786,Shel Silverstein,Falling Up,Poetry;Kids
+787,Justin Halpern,Sh*t My Dad Says,Comedy;Biography
+788,"Irvine Welsh, Eric Lindor Fall",Trainspotting,Comedy;Fiction
+789,Isaac Asimov,Foundation and Empire (Foundation #2),SciFi
+790,Miguel Ruiz,The Four Agreements: A Practical Guide to Personal Freedom,Self-Help
+791,Jodi Picoult,House Rules,Psychological
+792,"Jacob Grimm, Wilhelm Grimm, Josef Scharl, Padraic Colum, Joseph Campbell, Margaret Raine Hunt, James Stern",The Complete Grimm's Fairy Tales,Kids
+793,E.L. Konigsburg,From the Mixed-Up Files of Mrs. Basil E. Frankweiler,Kids
+794,Stephen King,"Doctor Sleep (The Shining, #2)",Horror;Fiction
+795,Nick Hornby,About a Boy,Romance;Fiction
+796,Samantha Young,"On Dublin Street (On Dublin Street, #1)",Erotic;Fiction;Romance
+797,"Francis Chan, Danae Yankoski, Chris Tomlin",Crazy Love: Overwhelmed by a Relentless God,Academic;Drama
+798,Dr. Seuss,"One Fish, Two Fish, Red Fish, Blue Fish",Kids
+799,Dean Koontz,Watchers,Horror;Fiction
+800,Helen Keller,The Story of My Life,Biography
+801,Jonathan Tropper,This is Where I Leave You,Psychological
+802,Seth Grahame-Smith,Abraham Lincoln: Vampire Hunter,Thriller;Horror;Fantasy
+803,"Natsuki Takaya, Alethea Nibley, Athena Nibley","Fruits Basket, Vol. 1",Fantasy;Romance;Young-Age
+804,William Shakespeare,The Tempest,Comedy;Romance
+805,"P.C. Cast, Kristin Cast","Burned (House of Night, #7)",Young-Age
+806,"Stephen King, Dave McKean","Wizard and Glass (The Dark Tower, #4)",Fantasy;SciFi;Horror
+807,Dave Eggers,The Circle,SciFi
+808,Brian Selznick,The Invention of Hugo Cabret,History;Fiction
+809,"Aldous Huxley, Christopher Hitchens",Brave New World / Brave New World Revisited,SciFi
+810,Bisco Hatori,"Ouran High School Host Club, Vol. 1 (Ouran High School Host Club, #1)",Romance;Young-Age
+811,Mary Kubica,The Good Girl,Psychological;Thriller
+812,Abbi Glines,"Fallen Too Far (Rosemary Beach, #1; Too Far, #1)",Romance;Fiction
+813,Rainbow Rowell,Landline,Romance;Fiction
+814,"P.C. Cast, Kristin Cast","Tempted (House of Night, #6)",Young-Age;Romance
+815,Cormac McCarthy,No Country for Old Men,Thriller
+816,Hilary Mantel,"Wolf Hall (Thomas Cromwell, #1)",History;Fiction
+817,Diana Wynne Jones,"Howl's Moving Castle (Howl's Moving Castle, #1)",Young-Age;Fantasy
+818,"Stephen King, William Olivier Desmond",Dreamcatcher,SciFi
+819,Henry David Thoreau,Walden,Biography
+820,Kazuo Ishiguro,The Remains of the Day,History
+821,Nicholas Sparks,The Best of Me,Romance
+822,Julian Barnes,The Sense of an Ending,Psychological
+823,Sue Grafton,"A is for Alibi (Kinsey Millhone, #1)",Crime;Thriller
+824,"Sophocles, J.E. Thomas","Oedipus Rex  (The Theban Plays, #1)",Drama;Fiction
+825,Lisa See,Shanghai Girls (Shanghai Girls #1),History;Fiction
+826,"Kenneth Grahame, Gillian Avery",The Wind in the Willows,Kids
+827,Jenny Han,"To All the Boys I've Loved Before (To All the Boys I've Loved Before, #1)",Young-Age
+828,"Marjane Satrapi, Mattias Ripa","Persepolis: The Story of a Childhood (Persepolis, #1)",Biography;Comedy
+829,E.M. Forster,A Room with a View,Classic
+830,Kody Keplinger,The DUFF: Designated Ugly Fat Friend,Young-Age
+831,Sarah Dessen,Lock and Key,Young-Age
+832,J.D. Robb,"Naked in Death (In Death, #1)",Crime;Romance
+833,John Grisham,The Chamber,Thriller;Young-Age;Fiction
+834,Stephenie Meyer,"Midnight Sun (Twilight, #1.5)",Young-Age;Fantasy;Romance
+835,"Masashi Kishimoto, Katy Bridges","Naruto, Vol. 01: The Tests of the Ninja (Naruto, #1)",Fantasy;Kids;Young-Age
+836,Rachel Joyce,"The Unlikely Pilgrimage of Harold Fry (Harold Fry, #1)",Comedy;Fiction
+837,David Levithan,"Every Day (Every Day, #1)",Fantasy;Young-Age;Romance
+838,Orson Scott Card,"Xenocide (Ender's Saga, #3)",SciFi
+839,"William Shakespeare, Robert          Jackson, Barbara A. Mowat, Paul Werstine",The Merchant of Venice,Romance;Comedy
+840,James Clavell,"Shōgun (Asian Saga, #1)",History;Fiction
+841,J.R. Ward,"Lover Awakened (Black Dagger Brotherhood, #3)",Romance;Fantasy;Fiction
+842,Sarah J. Maas,"A Court of Thorns and Roses (A Court of Thorns and Roses, #1)",Fantasy;Fiction
+843,E.L. James,"Fifty Shades Trilogy (Fifty Shades, #1-3)",Erotic;Romance
+844,"Bill Martin Jr., John Archambault, Lois Ehlert",Chicka Chicka Boom Boom,Kids
+845,Raina Telgemeier,Smile,Biography
+846,"George Orwell, Christopher Hitchens",Animal Farm / 1984,Comedy;Drama
+847,Jacquelyn Mitchard,"The Deep End of the Ocean (Cappadora Family, #1)",Fiction
+848,Amy Tan,The Bonesetter's Daughter,Fiction
+849,Louise Rennison,"Angus, Thongs and Full-Frontal Snogging (Confessions of Georgia Nicolson, #1)",Young-Age;Comedy
+850,Robin Sloan,"Mr. Penumbra's 24-Hour Bookstore (Mr. Penumbra's 24-Hour Bookstore, #1)",Fiction
+851,V.C. Andrews,"Flowers in the Attic (Dollanganger, #1)",Drama;Fiction
+852,"Paul Kalanithi, Abraham Verghese",When Breath Becomes Air,Biography
+853,Jerry Spinelli,Maniac Magee,Young-Age;Kids
+854,Chuck Palahniuk,Invisible Monsters,Comedy;Fiction
+855,William Shakespeare,Twelfth Night,Comedy;Drama
+856,Lois Lowry,"Gathering Blue (The Giver, #2)",Young-Age
+857,Ellen Raskin,The Westing Game,Thriller;Fiction
+858,Pierce Brown,"Red Rising (Red Rising, #1)",SciFi
+859,Brent Weeks,"The Way of Shadows (Night Angel, #1)",Fantasy
+860,Barbara Kingsolver,"The Bean Trees (Greer Family, #1)",Comedy;Kids;Fiction
+861,Jamie McGuire,"Walking Disaster (Beautiful, #2)",Romance;Fiction
+862,Brandon Sanderson,"Words of Radiance (The Stormlight Archive, #2)",Fantasy
+863,"Sam McBratney, Anita Jeram",Guess How Much I Love You,Kids;Young-Age
+864,Diana Gabaldon,"The Fiery Cross (Outlander, #5)",History;Fiction
+865,"Stephen King, John D. MacDonald",Night Shift,Horror
+866,Peter Benchley,Jaws,Thriller
+867,Nicole Krauss,The History of Love,History;Fiction
+868,"Astrid Lindgren, Lauren Child, Florence Lamborn, Nancy Seligsohn",Pippi Longstocking,Kids
+869,"Muriel Barbery, Alison Anderson",The Elegance of the Hedgehog,Fiction
+870,"Doris Kearns Goodwin, Suzanne Toren",Team of Rivals: The Political Genius of Abraham Lincoln,Biography
+871,Charlaine Harris,"Dead in the Family (Sookie Stackhouse, #10)",Fantasy
+872,"Albert Camus, Stuart Gilbert",The Plague,Self-Help;Fiction
+873,"Lemony Snicket, Brett Helquist","The Reptile Room (A Series of Unfortunate Events, #2)",Comedy;Fiction
+874,Susannah Cahalan,Brain on Fire: My Month of Madness,Biography
+875,Melissa Marr,"Wicked Lovely (Wicked Lovely, #1)",Young-Age;Fantasy
+876,H.A. Rey,Curious George,Kids
+877,"Michael Ende, Ralph Manheim, Roswitha Quadflieg",The Neverending Story,Fantasy;Classic
+878,Sylvia Nasar,A Beautiful Mind,Biography
+879,"Upton Sinclair, Earl Lee, Kathleen DeGrave",The Jungle,Fiction
+880,Kelley Armstrong,"The Summoning (Darkest Powers, #1)",Horror;Romance;Fiction
+881,Oliver Sacks,The Man Who Mistook His Wife for a Hat and Other Clinical Tales,History
+882,Ken Follett,Eye of the Needle,Thriller;Fiction
+883,Margaret Atwood,The Blind Assassin,History;Thriller;Fiction
+884,Ransom Riggs,"Hollow City (Miss Peregrine’s Peculiar Children, #2)",Young-Age;Horror;Fantasy
+885,Andre Dubus III,House of Sand and Fog,Fiction
+886,M.R. Carey,The Girl with All the Gifts,Horror;SciFi
+887,William Faulkner,As I Lay Dying,Comedy
+888,Crockett Johnson,Harold and the Purple Crayon,Kids
+889,J.R. Ward,"Lover Eternal (Black Dagger Brotherhood, #2)",Romance;Fantasy;Fiction
+890,Isaac Asimov,Second Foundation (Foundation #3),SciFi
+891,Jim Butcher,"Fool Moon (The Dresden Files, #2)",SciFi;Fantasy
+892,Malcolm Gladwell,"David and Goliath: Underdogs, Misfits, and the Art of Battling Giants",Self-Help
+893,"Hiromu Arakawa, Akira Watanabe","Fullmetal Alchemist, Vol. 1 (Fullmetal Alchemist, #1)",SciFi;Fantasy
+894,Terry Pratchett,"Guards! Guards! (Discworld, #8)",Fantasy
+895,Joan Didion,The Year of Magical Thinking,Biography
+896,Lionel Shriver,We Need to Talk About Kevin,Fiction
+897,Arthur C. Clarke,"Rendezvous with Rama (Rama, #1)",SciFi
+898,Anne Rice,"The Queen of the Damned (The Vampire Chronicles, #3)",Horror
+899,"Edith Wharton, Maureen Howard",The Age of Innocence,Romance;Fiction
+900,Richard Dawkins,The Selfish Gene,SciFi
+901,Geraldine Brooks,Year of Wonders,History;Fiction
+902,Michael Connelly,"The Black Echo (Harry Bosch, #1; Harry Bosch Universe, #1)",Crime
+903,Ayn Rand,Anthem,SciFi
+904,Sylvain Reynard,"Gabriel's Inferno (Gabriel's Inferno, #1)",Romance
+905,"Judi Barrett, Ron Barrett",Cloudy With a Chance of Meatballs,Fantasy
+906,Helen Simonson,Major Pettigrew's Last Stand,Romance;Fiction
+907,Nora Roberts,"Vision in White (Bride Quartet, #1)",Romance
+908,Jodi Picoult,The Tenth Circle,Drama
+909,Rick Riordan,"The Throne of Fire (Kane Chronicles, #2)",Fantasy
+910,John Scalzi,"Old Man's War (Old Man's War, #1)",SciFi
+911,Stephen King,Gerald's Game,Psychological;Horror;Thriller
+912,Janet Evanovich,"Two for the Dough (Stephanie Plum, #2)",Crime
+913,"Irma S. Rombauer, Marion Rombauer Becker, Ethan Becker",The Joy of Cooking,Academic;Self-Help
+914,Joe Haldeman,"The Forever War (The Forever War, #1)",SciFi
+915,"Stephen King, Bettina Blanch Tyroller",Insomnia,Horror;Fantasy
+916,Azar Nafisi,Reading Lolita in Tehran,Biography
+917,Joe Abercrombie,"The Blade Itself (The First Law, #1)",Crime
+918,Eoin Colfer,"The Arctic Incident (Artemis Fowl, #2)",Kids;Fantasy
+919,Annie Proulx,The Shipping News,Fiction
+920,"Marie Kondō, Cathy Hirano",The Life-Changing Magic of Tidying Up: The Japanese Art of Decluttering and Organizing,Self-Help
+921,"Jennifer Niven, فرانک معنوی",All the Bright Places,Young-Age
+922,Kathy Reichs,"Déjà Dead (Temperance Brennan, #1)",Crime
+923,Michael Scott,"The Alchemyst (The Secrets of the Immortal Nicholas Flamel, #1)",Fantasy;Thriller;Fiction
+924,Jeffrey Eugenides,The Marriage Plot,Fiction
+925,"Isabel Allende, Margaret Sayers Peden",Daughter of Fortune,Romance;History;Fiction
+926,Jessica Knoll,Luckiest Girl Alive,Fantasy;Thriller
+927,Ellen Hopkins,"Crank (Crank, #1)",Young-Age
+928,Maggie Stiefvater,"The Raven Boys (The Raven Cycle, #1)",Young-Age;Fantasy;Fiction
+929,Richard Matheson,I Am Legend and Other Stories,SciFi;Horror;Fantasy
+930,Elizabeth Strout,Olive Kitteridge,Fiction
+931,"Lena Dunham, Joana Avillez","Not That Kind of Girl: A Young Woman Tells You What She's ""Learned""",Biography
+932,James C. Collins,Good to Great: Why Some Companies Make the Leap... and Others Don't,Self-Help
+933,Kristin Cashore,"Fire (Graceling Realm, #2)",Fantasy
+934,Samuel Beckett,Waiting for Godot,Comedy;Drama
+935,Jack London,White Fang,Fiction
+936,"Stephen King, Bernie Wrightson","Wolves of the Calla (The Dark Tower, #5)",Fantasy;Horror;SciFi
+937,Philip Pullman,His Dark Materials (His Dark Materials #1-3),Young-Age;Fantasy
+938,J.A. Redmerski,"The Edge of Never (The Edge of Never, #1)",Erotic;Romance;Fiction
+939,Kimberly McCreight,Reconstructing Amelia,Psychological;Thriller
+940,Jojo Moyes,One Plus One,Romance;Fiction
+941,Michael Cunningham,The Hours,Drama;Psychological
+942,Alice Clayton,"Wallbanger (Cocktail, #1)",Romance
+943,David Sedaris,Holidays on Ice,Academic
+944,Stephen King,Desperation,Horror
+945,Lauren Kate,"Passion (Fallen, #3)",Young-Age;Fantasy;Romance
+946,James Dashner,"The Kill Order (Maze Runner, #0.5)",Young-Age;SciFi
+947,Susan Ee,"Angelfall (Penryn & the End of Days, #1)",Young-Age;Romance
+948,Richard Russo,Empire Falls,Fiction
+949,Robert Jordan,"The Fires of Heaven (Wheel of Time, #5)",Fantasy
+950,Jandy Nelson,I'll Give You the Sun,Young-Age
+951,Chuck Palahniuk,Survivor,Comedy;Drama
+952,Sophie Kinsella,"Shopaholic & Baby (Shopaholic, #5)",Comedy
+953,Stephen King,"The Dark Tower (The Dark Tower, #7)",Fantasy;SciFi;Horror
+954,Catherine Hardwicke,Twilight Director's Notebook : The Story of How We Made the Movie Based on the Novel by Stephenie Meyer,Biography
+955,Sophie Kinsella,"Shopaholic Takes Manhattan (Shopaholic, #2)",Comedy;Romance;Fiction
+956,Richard Feynman,"Surely You're Joking, Mr. Feynman!: Adventures of a Curious Character",Biography
+957,Maggie Stiefvater,"Linger (The Wolves of Mercy Falls, #2)",Fiction
+958,L.M. Montgomery,"The Complete Anne of Green Gables Boxed Set (Anne of Green Gables, #1-8)",Kids;Fiction
+959,"James Joyce, Seamus Deane",A Portrait of the Artist as a Young Man,Fiction
+960,"Robert Jordan, Brandon Sanderson","The Gathering Storm (Wheel of Time, #12)",Fantasy
+961,"George Eliot, Michel Faber",Middlemarch,Classic;Fiction
+962,Colleen Hoover,"Point of Retreat (Slammed, #2)",Romance;Fiction
+963,John Grisham,The Partner,Thriller
+964,J.R.R. Tolkien,J.R.R. Tolkien 4-Book Boxed Set: The Hobbit and The Lord of the Rings,Fantasy;Drama;Young-Age
+965,S.C. Stephens,"Thoughtless (Thoughtless, #1)",Romance;Fiction
+966,Scott Turow,Presumed Innocent,Thriller;Crime
+967,Stephen King,The Dark Half,Psychological;Horror
+968,Stacy Schiff,Cleopatra: A Life,Biography
+969,Thomas L. Friedman,The World Is Flat: A Brief History of the Twenty-first Century,History
+970,Brandon Sanderson,"Steelheart (The Reckoners, #1)",SciFi;Fantasy
+971,"Marcus Pfister, J. Alison James",The Rainbow Fish,Kids
+972,Jules Verne,"Journey to the Center of the Earth (Extraordinary Voyages, #3)",SciFi
+973,Gretchen Rubin,"The Happiness Project: Or Why I Spent a Year Trying to Sing in the Morning, Clean My Closets, Fight Right, Read Aristotle, and Generally Have More Fun",Self-Help;Biography
+974,Philip K. Dick,The Man in the High Castle,History;Fantasy;Fiction
+975,"Vincent Bugliosi, Curt Gentry",Helter Skelter: The True Story of the Manson Murders,Crime
+976,"Robert Kapilow, Dr. Seuss","Dr. Seuss's Green Eggs and Ham: For Soprano, Boy Soprano, and Orchestra",Kids
+977,"Dante Alighieri, Anthony M. Esolen",Inferno (The Divine Comedy #1),Thriller;Fiction
+978,Deborah Harkness,"Shadow of Night (All Souls Trilogy, #2)",Fantasy;Romance
+979,Jodi Picoult,Leaving Time,Thriller;Fiction
+980,Patricia Briggs,"Moon Called (Mercy Thompson, #1)",Fantasy;Fiction
+981,Melissa de la Cruz,"Blue Bloods (Blue Bloods, #1)",Fantasy
+982,Caleb Carr,"The Alienist (Dr. Laszlo Kreizler, #1)",Crime;History
+983,Ta-Nehisi Coates,Between the World and Me,Biography
+984,"John Milton, John      Leonard",Paradise Lost,Poetry
+985,Michael   Lewis,The Big Short: Inside the Doomsday Machine,Academic
+986,Stephen King,The Girl Who Loved Tom Gordon,Horror
+987,"Patrick Ness, Jim Kay, Siobhan Dowd",A Monster Calls,Kids;Fantasy
+988,"Robert Jordan, Brandon Sanderson","Towers of Midnight (Wheel of Time, #13)",Fantasy
+989,Frederick Forsyth,The Day of the Jackal,Thriller;Fiction;History;Fiction
+990,"Jason Fried, David Heinemeier Hansson",Rework,Self-Help
+991,Rainbow Rowell,Attachments,Romance;Fiction
+992,"Stephenie Meyer, Ilyana Kadushin, Matt Walters","The Twilight Saga (Twilight, #1-4)",Fantasy;Young-Age;Romance
+993,Carol Rifka Brunt,Tell the Wolves I'm Home,Romance;Fiction
+994,James Herriot,"All Creatures Great and Small (All Creatures Great and Small, #1-2)",Biography;Fiction
+995,Michelle Hodkin,"The Unbecoming of Mara Dyer (Mara Dyer, #1)",Fiction
+996,Janet Evanovich,"Three to Get Deadly (Stephanie Plum, #3)",Crime
+997,Emmuska Orczy,The Scarlet Pimpernel,History;Fiction
+998,"Jon Stone, Michael J. Smollin",The Monster at the End of this Book,Fiction;Kids
+999,Judy Blume,"Tales of a Fourth Grade Nothing (Fudge, #1)",Kids
