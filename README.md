@@ -1,5 +1,10 @@
 # IT556_Worthless_without_coffee_DA-IICT_Final_Project
-This is a book recommendation engine built using a hybrid model of Collaborative filtering, Content Based Filtering and Popularity Matrix.
+This is a book recommendation engine built using a hybrid model of Collaborative filtering, Content Based Filtering and Popularity Matrix for our course IT556 - Recommendation Engines.
+
+The Team
+1. Divyanshu Shekhar
+2. Sakshi Sharma
+3. Keya Desai
 
 ## Dataset
 Dataset used for the project is goodbooks-10k. It contains contains six million ratings for ten thousand most popular (with most ratings) books. However, the dataset is missing genre tags for each book. For content based filtering, genre of the book is important and hence we have tagged the first thousand books manually. <br/><br /> The genres included are: 'Fantasy', 'Fiction', 'Self-Help', 'Drama', 'Romance', 'Thriller', 'Biography', 'Erotic', 'Kids', 'Poetry', 'Horror', 'History', 'Academic', 'Comedy', 'Classic', ' Thriller', 'Domestic Fiction’, ‘SciFi’, ‘Crime Fiction’, ‘Psychological Fiction’, ‘Young-Adult Fiction’. <br /><br /> The final data hence contains book-id, authors, title and genres for thousand books.<br />
