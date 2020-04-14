@@ -11,6 +11,7 @@ from nltk.stem.snowball import SnowballStemmer
 from nltk.stem.wordnet import WordNetLemmatizer
 from nltk.corpus import wordnet
 from surprise import Reader, Dataset, SVD, evaluate
+from collections import defaultdict
 
 
 class hybrid(object):
@@ -21,9 +22,7 @@ class hybrid(object):
         self.md = pd.read_csv('CustomData/FinalData.csv')
         self.ratings = ratings
         print(ratings[(ratings['user_id'] == user_id)][['user_id','book_id', 'rating']])
-
-
-
+	
         self.popularity_rating = self.popularity(self.md)
         self.collaborative_rating = self.collaborative(self.ratings, self.user_id)
         self.content_rating = self.content_based(self.md,self.ratings,self.user_id)
@@ -34,15 +33,13 @@ class hybrid(object):
 #Popularity#
 
     def popularity(self,md):
-
-
+		
         fd = pd.read_csv('CustomData/AverageRatings.csv')
         fd1 = pd.read_csv('CustomData/RatingsCount.csv')
 	
         fd[fd['rating'].notnull()]['rating'] = fd[fd['rating'].notnull()]['rating'].astype('float')
         vote_averages= fd[fd['rating'].notnull()]['rating'] 
         C = vote_averages.mean()
-
 
         fd1[fd1['rating'].notnull()]['rating'] = fd1[fd1['rating'].notnull()]['rating'].astype('float')
         vote_counts = fd1[fd1['rating'].notnull()]['rating']
@@ -78,9 +75,6 @@ class hybrid(object):
         #ratings.head()
 
         temp_ratings = ratings
-
-
-
         data = Dataset.load_from_df(temp_ratings[['user_id', 'book_id', 'rating']], reader)
         data.split(n_folds=2)
 
@@ -95,28 +89,15 @@ class hybrid(object):
 
         #svd.train(trainset)
         ## Testing the data ##
-
-        from collections import defaultdict
         testset = trainset.build_anti_testset()
         predictions = algo.test(testset)
-
         count = 0
      
         for uid, iid, true_r, est, _ in predictions:
-
              if uid == user_id:
                 count = count+1
                 temp_ratings.loc[len(temp_ratings)+1]= [uid,iid,est]
 
-        #print("count\n")
-        #print(count)
-        #print("\n--------here-------\n")	
-        #print(temp_ratings)
-
-        cb = temp_ratings[(temp_ratings['user_id'] == user_id)][['book_id', 'rating']]
-        #print("\n--------here-------\n")
-        #print(cb)
-        
         cb = temp_ratings[(temp_ratings['user_id'] == user_id)][['book_id', 'rating']]
 
         return(cb)
@@ -147,15 +128,9 @@ class hybrid(object):
 
         md['soup'] = md['soup'].str.join(' ')
 
-        #md['soup'].fillna({})
-        #print(md['soup'])
-
         count = CountVectorizer(analyzer='word',ngram_range=(1,1),min_df=0, stop_words='english')
         count_matrix = count.fit_transform(md['soup'])
         print (count_matrix.shape)
-        #print np.array(count.get_feature_names())
-        #print(count_matrix.shape)
-
 
         cosine_sim = cosine_similarity(count_matrix, count_matrix)
 
@@ -163,12 +138,9 @@ class hybrid(object):
             user_profiles=np.zeros((60001,999))
 		#taking only the first 100000 ratings to build user_profile
             for i in range(0,100000):
-                
                 u=ratings.iloc[i]['user_id']
                 b=ratings.iloc[i]['book_id']
-		
-                user_profiles[u][b-1]=ratings.iloc[i]['rating']
-                
+                user_profiles[u][b-1]=ratings.iloc[i]['rating']   
             return user_profiles
 
         user_profiles=build_user_profiles()
@@ -187,17 +159,13 @@ class hybrid(object):
 
             for i in range(0,998):
                 user_ratings[i]=((user_ratings[i]*5.0)/(maxval))
-
                 if(user_ratings[i]>3):
-
                     cnt+=1
 
             return user_ratings
 
         content_ratings = _get_similar_items_to_user_profile(user_id)
-
-
-
+	
         num = md[['book_id']]
         num1 = pd.DataFrame(data=content_ratings[0:,0:])
         frames = [num, num1]
@@ -205,8 +173,6 @@ class hybrid(object):
 
         content_rating = pd.concat(frames, axis =1,join_axes=[num.index])
         content_rating.columns=['book_id', 'content_rating']
-        #print(content_rating.shape)
-        #print(content_rating)
 
         return(content_rating)
 
@@ -226,7 +192,6 @@ class hybrid(object):
             R = x['popularity_rating']
             c = x['content_rating']
             return 0.4*v + 0.2*R + 0.4 * c
-
 
         hyb['hyb_rating'] = hyb.apply(weighted_rating, axis=1)
         hyb = hyb.sort_values('hyb_rating', ascending=False).head(999)
